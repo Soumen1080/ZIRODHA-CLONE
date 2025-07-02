@@ -2,7 +2,7 @@ import React from 'react';
 
 function Awards() {
     return (
-        <h1>Awards</h1>
+        <div className='container'> </div>
       );
 }
 
