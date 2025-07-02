@@ -1,6 +1,6 @@
 # Zerodha Clone
 
-A full-stack Zerodha trading platform clone built for learning and demo purposes. This project replicates the basic functionality and UI of India's leading stock trading platform — Zerodha (Kite).
+👾👾A full-stack Zerodha trading platform clone built for learning and demo purposes. This project replicates the basic functionality and UI of India's leading stock trading platform — Zerodha (Kite).
 
 ## 🚀 Features
 
