@@ -7,7 +7,6 @@ import OpenAccount from '../../OpenAccount';
 import Footer from '../../Footer';
 import Navbar from '../../Navbar';
 
-
 function HomePage() {
     return (
         
