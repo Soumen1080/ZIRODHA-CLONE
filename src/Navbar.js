@@ -6,4 +6,7 @@ function Navbar() {
       );
 }
 
+
+// Navbar.js
+
 export default Navbar;
